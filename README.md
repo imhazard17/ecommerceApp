@@ -1,6 +1,6 @@
 # shop_app
 
-A new Flutter application.
+this is an flipkart-like ecommerce app in which you can upload, buy, sell, like and cart products. It is made using flutter in the frontend and firebase as the backend. It has both google and traditional email-password login.
 
 ## Getting Started
 
